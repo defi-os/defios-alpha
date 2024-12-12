@@ -63,7 +63,7 @@
     "react-countdown": "^2.3.5",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
-    "react-github-calendar": "^3.4.0",
+    "react-github-calendar": "^4.0.1",
     "react-globe.gl": "^2.23.3",
     "react-hook-form": "^7.43.0",
     "react-markdown": "^8.0.7",
